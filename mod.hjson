@@ -1,0 +1,10 @@
+name: v78
+displayName: "V7 -> V8 (Backport)"
+description: A primitive hJson mod which adds some content and changes from V8 to V7, made because V8's JDK requirement changes led to "compatibility" issues with a certain laptop I'm borrowing for a long time.
+subtitle: are we serious my router
+
+author: Chax0180
+maxGameVersion: 146
+version: 0.0
+hidden: false
+hideBrowser: false
