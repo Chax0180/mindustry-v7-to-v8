@@ -1,2 +1,7 @@
 type: coreBlock
+name: Core Access Node
 description: Provides access to items stored in the core. Items can be unloaded, but not inserted.
+size: 3
+allowSpawn: false
+unitType: none
+acceptsItems: false
