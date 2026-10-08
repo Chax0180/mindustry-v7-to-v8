@@ -1,6 +1,6 @@
 name: v78
-displayName: "V7 -> V8 (Backport)"
-description: A primitive hJson mod which adds some content and changes from V8 to V7, made because V8's JDK requirement changes led to "compatibility" issues with a certain laptop I'm borrowing for a long time.
+displayName: V7 Expansion
+description: A primitive hJson mod which adds some content and changes from V8 to V7, made because V8's JDK requirement changes led to "compatibility" issues with a certain laptop I'm borrowing for a long time. Compatible with V8 as well.
 subtitle: are we serious my router
 
 author: Chax0180
