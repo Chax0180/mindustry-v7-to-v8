@@ -1,0 +1,2 @@
+type: coreBlock
+description: Provides access to items stored in the core. Items can be unloaded, but not inserted.
