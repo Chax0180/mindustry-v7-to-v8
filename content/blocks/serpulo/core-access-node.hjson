@@ -5,3 +5,9 @@ size: 2
 allowSpawn: false
 unitType: none
 acceptsItems: false
+requirements:[
+graphite/80
+plastanium/60
+phase-fabric/100
+silicon/300
+]
