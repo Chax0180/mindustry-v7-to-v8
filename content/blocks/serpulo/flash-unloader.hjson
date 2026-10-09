@@ -1,7 +1,7 @@
 type: DirectionalUnloader
 name: Flash Unloader
 description: Unloads the selected item from the block behind it. Does so at an extremely fast rate.
-size: 2
+size: 1
 category: distribution
 research: unloader
 requirements: [
