@@ -3,7 +3,7 @@ name: Core Access Node
 description: Provides access to items stored in the core. Items can be unloaded, but not inserted.
 size: 2
 allowSpawn: false
-unitType: none
+unitType: mono
 acceptsItems: false
 requirements:[
 graphite/80
